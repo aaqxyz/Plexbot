@@ -1,6 +1,9 @@
 
 # PlexBot - StreamBoy TV Server Management Discord Bot
 
+![Status Embed](https://cdn.asuna.cat/u/uXuY6S.png)
+![Slash Commands](https://cdn.asuna.cat/u/IW3Khg.png)
+
 PlexBot is a Discord bot built to manage StreamBoy TV Plex servers. It uses slash commands to start, stop, and restart servers directly from Discord, and keeps a live status embed updated in a designated channel. It scrapes the StreamBoy dashboard using Playwright so you don't have to open it yourself.
 
 ---
