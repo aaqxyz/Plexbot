@@ -1,0 +1,17 @@
+{
+  "name": "plexbot-discord",
+  "version": "2.0.0",
+  "description": "Discord bot for managing StreamBoy TV Plex servers",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "login": "node login.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "playwright": "^1.49.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

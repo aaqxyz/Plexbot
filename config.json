@@ -1,0 +1,15 @@
+{
+  "discordToken": "TOKEN",
+  "channelId": "CHANNEL_ID",
+  "refreshIntervalMinutes": 5,
+  "servers": [
+    {
+      "name": "Private Plex Server",
+      "dashboardUrl": "https://box.streamboy.tv/app/dashboard/XXXXX"
+    },
+    {
+      "name": "Public Plex Server",
+      "dashboardUrl": "https://box.streamboy.tv/app/dashboard/YYYYY"
+    }
+  ]
+}
